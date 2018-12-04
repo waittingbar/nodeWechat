@@ -40,10 +40,10 @@
  
  6. 服务起配置能够修改成功，说明已经连接成功，接下来就可以调接口了，访问花生壳提供的地址加app.js中自己的方法便可实现改菜单，查/改卡券等功能
    
-   * /getAccessToken  手动获取token
-   * /creatMenus 创建菜单
-   * /getCardInfo 获取卡券详情
-   * /setCardInfo 设置卡券信息
+   -  /getAccessToken   手动获取token
+   -  /creatMenus       创建菜单
+   -  /getCardInfo      获取卡券详情
+   -  /setCardInfo      设置卡券信息
 
 
 
