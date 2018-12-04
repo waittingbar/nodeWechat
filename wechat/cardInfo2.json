@@ -1,0 +1,46 @@
+{
+  "card_id": "pPzbxwTwuenyWk-C4bonKHj5kz2U",
+  "member_card": {
+    "background_pic_url": "http://mmbiz.qpic.cn/mmbiz_jpg/GNlyrFIGibTV9ATfpfB7sA6rAjenxrfMwtm1pePLr1ibBj7YrOl5AWI0BUBZz9PnqP2jIRPk0IeQe452atz9Z02A/0?wx_fmt=jpeg",
+    "base_info": {
+      "logo_url": "http://mmbiz.qpic.cn/mmbiz_png/GNlyrFIGibTVYnUlYOJFPiavVbNGPwjulhZBhkpxDNQ0uNBfbx31CkgUWaQWZ8JY3VZHYSTvDNGtL3oF2SfjyIiag/0?wx_fmt=png",
+      "code_type": "CODE_TYPE_BARCODE",
+      "title": "会员卡-享9.6折优惠",
+      "date_info": {
+        "type": "DATE_TYPE_PERMANENT"
+      },
+      "color": "Color010",
+      "center_title": "",
+      "center_sub_title": "",
+      "notice": "请出示此码给店员",
+      "service_phone": "023-63789807",
+      "description": "折扣和积分仅限京东便利店自营商品，烟酒、整件商品不参与折扣和积分活动。\r\n因系统对接问题，现积分不能实时更新，积分请以购物小票为准。",
+      "location_id_list": [483918236],
+      "get_limit": 1,
+      "can_share": true,
+      "can_give_friend": false,
+      "use_all_locations": true,
+      "is_pay_and_qrcode": true,
+      "pay_info": {
+        "swipe_card": {
+          "is_swipe_card": true
+        }
+      }
+    }, 
+    "supply_bonus": true,
+    "supply_balance": false,
+    "prerogative": "用卡可享受9.6折优惠\n-",
+    "discount": 4,
+    "auto_activate": false,
+    "wx_activate": true,
+    "bonus_rule": {
+      "cost_money_unit": 100,
+      "increase_bonus": 1,
+      "init_increase_bonus": 10,
+      "cost_bonus_unit": 100,
+      "reduce_money": 100,
+      "least_money_to_use_bonus": 1900,
+      "max_reduce_bonus": 200
+    }
+  }
+}

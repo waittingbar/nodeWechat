@@ -1,0 +1,40 @@
+{
+  "card_id": "此处id需修改",
+  "member_card": {
+    "background_pic_url": "http://mmbiz.qpic.cn/mmbiz_jpg/pEajbCfrJOoMBWI52O8XUtXQonq2FoOa29gRib4uXiays378V28tmbKiat7XQgQPkgfKiaNqFWSrdrrAWdAvaFtjuQ/0?wx_fmt=jpeg",
+    "base_info": {
+      "logo_url": "http://mmbiz.qpic.cn/mmbiz_jpg/pEajbCfrJOoMBWI52O8XUtXQonq2FoOaSfks91qBGnXefia1ia4ZQ3K26cLsiaeYTNvNpTMWEOerZdew6zZqaklgw/0?wx_fmt=jpeg",
+      "code_type": "CODE_TYPE_BARCODE",
+      "title": "肉夹馍专享积分账户",
+      "date_info": {
+        "type": "DATE_TYPE_PERMANENT"
+      },
+      "notice": "请出示此码给店员",
+      "service_phone": "023-63789807",
+      "description": "",
+      "location_id_list": [466318731],
+      "get_limit": 1,
+      "can_share": true,
+      "can_give_friend": false,
+      "use_all_locations": true,
+      "pay_info": {
+        "swipe_card": {
+          "is_swipe_card": true
+        }
+      }
+    },
+    "supply_bonus": true,
+    "supply_balance": false,
+    "prerogative": "每月1号发放100积分，每1积分可抵扣1元，积分仅限当月使用，本月积分次月自动清零。",
+    "auto_activate": false,
+    "wx_activate": true,
+    "bonus_rule": {
+      "cost_money_unit": 100,
+      "increase_bonus": 1,
+      "max_increase_bonus": 1000,
+      "init_increase_bonus": 10,
+      "cost_bonus_unit": 1,
+      "reduce_money": 100
+    }
+  }
+}
